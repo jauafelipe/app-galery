@@ -1,1 +1,2 @@
-export const url: string = "https://jsonplaceholder.typicode.com/posts"//aoi fictica para consumo
+export const url: string = "https://jsonplaceholder.typicode.com/posts"//api fictica para consumo
+

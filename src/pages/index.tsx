@@ -4,7 +4,7 @@ import React from 'react';
 export default function Home() {
   return (
     <>
-    <LoginPainel titleLogin={"LOGIN PAINEL"}/>
+    <LoginPainel titleLogin={"Faça Seu Login"}/>
     </>
   )
 }

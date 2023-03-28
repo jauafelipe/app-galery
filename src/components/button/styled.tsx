@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 
 export const Button = styled.button`
+  color: #fff;
   background-color: rgb(0, 0, 0, 0.2);
   cursor: pointer;
   font-size: 14px;
@@ -11,6 +12,7 @@ export const Button = styled.button`
   transition: all 400ms;
   &:hover {
     transition: all 400ms;
+    border: solid 1px #fcfcfc;
 
     color: #fff;
     background-color: rgb(0, 0, 0, 0.5);

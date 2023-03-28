@@ -10,6 +10,10 @@ export default function LoginPainel({ titleLogin }: Login) {
       <form action="">
         <input type="email" name="" id="" />
         <input type="password" />
+        <div className="remember-me">
+          <input type="checkbox" name="" id="" />
+          <p>Manter-me Conectado</p>
+        </div>
         <ButtonComp text={'LOGAR'} />
       </form>
       <p>Não Tem Uma Conta?</p>
